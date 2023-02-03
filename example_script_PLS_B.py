@@ -15,12 +15,12 @@ X_train = ss.transform(X_train)
 X_test = ss.transform(X_test)
 
 model = PLS(
-    bootstrap = False,
-    n_components = 20,
+    bootstrap = True,
+    n_components = 30,
     ).fit(X_train, y_train)
 
 r2_test = model.score(X_test, y_test, plot = True)
-plt.savefig("r2_PLS.svg")
+plt.savefig("r2_PLS_B.svg")
 
 model._get_feature_importances(X, y_test, print_=True, plot=True)
-plt.savefig("feat_importance_PLS.svg")
+plt.savefig("feat_importance_PLS_B.svg")

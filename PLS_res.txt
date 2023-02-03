@@ -1,0 +1,299 @@
+R^2: 0.9765
+metabolite                                                                                                 coeff in PLS
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Protoheme C34H30FeN4O4                                                                                     0.703909
+1-octadec-11-enoyl-sn-glycerol 3-phosphate&2-octadec-11-enoyl-sn-glycerol 3-phosphate                      0.623823
+N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid                                                      0.499328
+Dephospho-CoA                                                                                              0.409189
+Succinic semialdehyde&2-Oxobutanoate&Acetoacetate                                                          0.351514
+D-Fructose 1,6-bisphosphate&D-Tagatose 1,6-biphosphate                                                     0.269496
+Gamma-glutamyl-gamma aminobutyric acid&N2-Succinyl-L-ornithine                                             0.232641
+1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate                                                            -0.213098
+Nicotinamide adenine dinucleotide                                                                          0.201406
+N6-(1,2-Dicarboxyethyl)-AMP                                                                               -0.200431
+Quinate                                                                                                    0.197809
+L-Citrulline                                                                                              -0.187017
+Tetradecenoate (n-C14:1)                                                                                  -0.176284
+UDPglucose&UDP-D-galacto-1,4-furanose&UDPgalactose                                                         0.173233
+L-Proline                                                                                                  0.169123
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate                                                              -0.167878
+L-Phenylalanine                                                                                           -0.165738
+Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1)                                                        -0.164981
+4-Aminobutanoate                                                                                          -0.162353
+AMP C10H12N5O7P&3  AMP C10H12N5O7P&DGMP C10H12N5O7P                                                        0.162035
+Acetyl-CoA                                                                                                 0.161640
+4-Amino-2-methyl-5-phosphomethylpyrimidine                                                                -0.160800
+N-Succinyl-LL-2,6-diaminoheptanedioate                                                                    -0.156355
+Coenzyme A                                                                                                -0.152585
+CDP C9H12N3O11P2                                                                                          -0.151833
+Sulfoacetate                                                                                               0.150180
+Trans-Dec-2-enoyl-CoA                                                                                      0.150058
+N-Acetylanthranilate                                                                                      -0.143960
+CDP-1,2-dioctadec-11-enoylglycerol                                                                         0.141673
+Succinate                                                                                                  0.132359
+3-Dehydroquinate                                                                                          -0.132307
+N-Acetyl-L-glutamate 5-semialdehyde                                                                        0.131510
+L-Fucose&L-fuculose&L-Rhamnulose&L-Rhamnose                                                                0.126837
+Cyclopropane phosphatidylglycerol (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)                             -0.124710
+Dodecanoate (n-C12:0)                                                                                      0.122397
+N-Acetyl-D-glucosamine 1-phosphate&N-Acetyl-D-glucosamine 6-phosphate&N-Acetyl-D-galactosamine 1-phosphate&N-Acetyl-D-mannosamine 6-phosphate -0.122195
+Glutathionylspermidine                                                                                    -0.121974
+DTDP-L-rhamnose                                                                                            0.121811
+1-deoxy-D-xylulose 5-phosphate&2-Deoxy-D-ribose 1-phosphate&2-Deoxy-D-ribose 5-phosphate                  -0.120175
+D-Sorbitol 6-phosphate&D-Mannitol 1-phosphate&Galactitol 1-phosphate                                       0.118773
+ADP-D-glycero-D-manno-heptose                                                                             -0.116418
+L-Tyrosine                                                                                                -0.116119
+3-Carboxy-2-hydroxy-4-methylpentanoate&3-Carboxy-3-hydroxy-4-methylpentanoate                             -0.115518
+Phenylacetic acid&4-Hydroxyphenylacetaldehyde                                                             -0.115215
+L-Glutamate 5-phosphate                                                                                    0.113842
+L-alanine-D-glutamate&L-alanine-L-glutamate                                                               -0.113156
+D-Glycero-D-manno-heptose 1-phosphate&D-Glycero-D-manno-heptose 7-phosphate&Sedoheptulose 7-phosphate     -0.111602
+DATP C10H12N5O12P3                                                                                         0.111488
+L-Malate                                                                                                   0.111388
+O-Succinylbenzoate                                                                                        -0.109646
+Phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)                                                    -0.105774
+FMN C17H19N4O9P                                                                                           -0.105585
+L-Histidine                                                                                                0.105161
+L-Aspartate                                                                                                0.105059
+Inosine                                                                                                   -0.104919
+Glycerophosphoglycerol                                                                                    -0.104173
+Dihydroxyacetone phosphate&Glyceraldehyde 3-phosphate                                                     -0.102722
+7-cyano-7-carbaguanine                                                                                     0.102238
+UDP-N-acetylmuramate                                                                                      -0.101891
+Glycerol 3-phosphate&Glycerol 2-phosphate                                                                  0.101416
+Sedoheptulose 1,7-bisphosphate&D-Glycero-D-manno-heptose 1,7-bisphosphate                                 -0.100190
+N2-Acetyl-L-ornithine                                                                                      0.099266
+6-hydroxymethyl dihydropterin                                                                             -0.097514
+DGTP C10H12N5O13P3&ATP C10H12N5O13P3                                                                       0.096939
+Octadecenoate (n-C18:1)                                                                                   -0.096644
+1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0)&2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:0)                0.095672
+GTP C10H12N5O14P3                                                                                          0.095554
+5,6-dihydrouracil                                                                                          0.094635
+L-Tryptophan                                                                                               0.094613
+Orotate C5H3N2O4                                                                                           0.092474
+Nicotinamide adenine dinucleotide phosphate - reduced                                                      0.091752
+N-Acetyl-L-glutamate                                                                                      -0.091304
+Bis-molybdenum cofactor                                                                                   -0.089553
+3-Phospho-D-glycerate&D-Glycerate 2-phosphate                                                             -0.087104
+(S)-Dihydroorotate                                                                                         0.084687
+Isocitrate&Citrate&5-Dehydro-4-deoxy-D-glucarate&2,3-Dioxo-L-gulonate&2,5-diketo-D-gluconate               0.084092
+L-Homocysteine                                                                                             0.083210
+N-Carbamoyl-L-aspartate                                                                                    0.083202
+Cyclopropane phosphatidylethanolamine (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)                          0.082586
+3-Deoxy-D-manno-2-octulosonate                                                                            -0.082189
+Gamma-glutamyl-gamma-butyraldehyde                                                                        -0.081543
+2-Dehydro-3-deoxy-D-galactonate&2-Dehydro-3-deoxy-D-gluconate                                             -0.078911
+Methylisocitrate&2-Methylcitrate&Lipoate                                                                  -0.077605
+2-C-methyl-D-erythritol 4-phosphate                                                                        0.076688
+1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)&2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)        0.076428
+Ornithine                                                                                                 -0.075709
+Cytidine                                                                                                   0.075237
+Guanosine                                                                                                 -0.075209
+(R)-S-Lactoylglutathione                                                                                  -0.075022
+N-Acetylneuraminate                                                                                       -0.075019
+D-Fructose&D-Galactose&Beta D-Galactose&D-Allose&D-Mannose&D-Glucose&Myo-Inositol                         -0.074957
+Pyridoxal                                                                                                  0.074351
+1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)&2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)       -0.073370
+Acetate&Glycolaldehyde                                                                                    -0.072874
+3-Carboxy-4-methyl-2-oxopentanoate&Shikimate                                                              -0.072770
+UMP C9H11N2O9P&3  UMP C9H11N2O9P                                                                          -0.072722
+L-Allo-threonine&L-Homoserine&L-Threonine                                                                 -0.072120
+Cys Gly C5H10N2O3S                                                                                        -0.071882
+IMP C10H11N4O8P                                                                                            0.071577
+L-Arginine                                                                                                -0.071525
+Uridine                                                                                                    0.071508
+L-Methionine                                                                                              -0.071107
+2,5-Diamino-6-(ribosylamino)-4-(3H)-pyrimidinone 5'-phosphate                                             -0.070816
+L-Fuculose 1-phosphate&L-Rhamnulose 1-phosphate                                                           -0.069496
+(S)-2-Acetolactate&4-Hydroxy-2-oxopentanoate&(2R,4S)-2-methyl-2,4-dihydroxydihydrofuran-3-one&4,5-dihydroxy-2,3-pentanedione  0.068868
+Xanthosine                                                                                                -0.068794
+1,4-Dihydroxy-2-naphthoate                                                                                -0.067663
+2-Dehydro-3-deoxy-D-gluconate 6-phosphate&2-Dehydro-3-deoxy-D-galactonate 6-phosphate&6-phospho-D-glucono-1,5-lactone -0.065653
+Thymidine C10H14N2O5                                                                                      -0.064320
+(S)-3-Hydroxyoctadecanoyl-CoA                                                                              0.063767
+GMP C10H12N5O8P&Guanosine 3  phosphate C10H12N5O8P&Cyclic pyranopterin monophosphate                       0.063047
+UDP-D-glucuronate                                                                                          0.060759
+4-Methyl-2-oxopentanoate&(S)-3-Methyl-2-oxopentanoate                                                      0.060576
+1-Pyrroline-5-carboxylate                                                                                 -0.059643
+Ubiquinone-8                                                                                              -0.059262
+(R)-Glycerate                                                                                              0.058956
+Tetradecanoate (n-C14:0)                                                                                   0.058849
+Reduced glutathione                                                                                        0.058614
+DTDP-4-acetamido-4,6-dideoxy-D-galactose                                                                   0.057887
+Gamma-L-Glutamyl-L-cysteine                                                                               -0.057779
+DADP C10H12N5O9P2                                                                                          0.057577
+Pyridoxal 5'-phosphate                                                                                    -0.056817
+Dehydroglycine                                                                                             0.056051
+Gamma-butyrobetaine                                                                                       -0.054638
+(R)-Pantoate&(R)-2,3-Dihydroxy-3-methylpentanoate                                                          0.054483
+DUMP C9H11N2O8P                                                                                            0.054405
+Deoxyuridine                                                                                              -0.054125
+Sn-Glycero-3-phosphoethanolamine                                                                          -0.052844
+L-Serine                                                                                                   0.051512
+6-Phospho-D-gluconate                                                                                     -0.051251
+Prephenate&Isochorismate&Chorismate                                                                       -0.050989
+Enterochelin                                                                                              -0.050541
+Hexadecenoate (n-C16:1)                                                                                    0.049698
+2,3-Dihydro-2,3-dihydroxybenzoate                                                                         -0.049393
+1-(5-Phosphoribosyl)-AMP&ADPribose C15H21N5O14P2                                                           0.049182
+3-Dehydroshikimate                                                                                         0.049034
+(R)-Pantothenate                                                                                           0.048832
+N-Acetyl-D-galactosamine&N-Acetyl-D-glucosamine&N-Acetyl-D-mannosamine                                     0.047927
+CMP-3-deoxy-D-manno-octulosonate                                                                           0.047909
+1,6-anhydrous-N-Acetylmuramate                                                                            -0.047755
+Beta-Alanine&Sarcosine C3H7NO2&L-Alanine                                                                  -0.047363
+5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide                                                    -0.047294
+5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide                                                 0.046401
+Pyruvate&Malonate semialdehyde                                                                             0.046125
+5-O-(1-Carboxyvinyl)-3-phosphoshikimate                                                                   -0.045840
+UDP C9H11N2O12P2                                                                                          -0.042692
+L-Histidinol phosphate                                                                                     0.041375
+Gamma-hydroxybutyrate                                                                                     -0.041362
+Acetyl phosphate                                                                                          -0.041356
+Glycine                                                                                                   -0.040512
+L-Asparagine                                                                                              -0.040258
+(S)-Methylmalonyl-CoA&Succinyl-CoA&Malonyl-CoA methyl ester                                               -0.039170
+Pantetheine 4'-phosphate                                                                                   0.038629
+Aminoacetaldehyde                                                                                         -0.038245
+L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine                                             -0.038241
+4-(1-D-Ribitylamino)-5-aminouracil                                                                         0.037492
+S-Ribosyl-L-homocysteine                                                                                   0.036864
+L-Histidinol                                                                                              -0.036355
+Butyrate (n-C4:0)                                                                                         -0.035572
+Oxidized glutathione                                                                                      -0.035154
+Dihydroneopterin monophosphate                                                                             0.034888
+2,3-dihydroxybenzoylserine                                                                                -0.034413
+Guanine                                                                                                    0.034051
+Phosphoenolpyruvate                                                                                       -0.033560
+1-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)&2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:0)       -0.033035
+Phenylpropanoate                                                                                           0.032847
+Hypoxanthine                                                                                               0.032750
+N2-Formyl-N1-(5-phospho-D-ribosyl)glycinamide                                                             -0.032688
+1-dodecanoyl-sn-glycerol 3-phosphate&2-dodecanoyl-sn-glycerol 3-phosphate                                 -0.032043
+D-Xylulose 5-phosphate&Alpha-D-Ribose 1-phosphate&D-Arabinose 5-phosphate&Alpha-D-Ribose 5-phosphate&D-Ribulose 5-phosphate  0.031628
+Hexadecanoate (n-C16:0)                                                                                    0.030956
+Maltopentaose                                                                                              0.030529
+2-Oxoglutarate                                                                                             0.030461
+O-Succinyl-L-homoserine                                                                                   -0.030130
+1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)&2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)                0.029925
+Xanthine                                                                                                   0.029218
+3-Deoxy-D-manno-octulosonate 8-phosphate                                                                  -0.029213
+Octadecanoate (n-C18:0)                                                                                   -0.028872
+Flavin adenine dinucleotide oxidized                                                                       0.028516
+CTP C9H12N3O14P3                                                                                          -0.027782
+Adenine                                                                                                    0.027751
+6-Acetyl-D-glucose                                                                                         0.027627
+1-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0)&2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:0)        0.027621
+2,3-Dihydroxybenzoate                                                                                      0.027618
+2-Isopropylmaleate                                                                                        -0.027539
+Chloramphenicol                                                                                            0.027473
+DTDPglucose                                                                                                0.027287
+LL-2,6-Diaminoheptanedioate                                                                               -0.026917
+D-Xylulose&L-Lyxose&D-Ribose&L-Ribulose&L-Arabinose&(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran&D-Xylose  0.026643
+Phenylacetaldehyde                                                                                         0.026642
+Phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1)                                                       0.026641
+DTMP C10H13N2O8P                                                                                          -0.025890
+5-Dehydro-D-gluconate&D-Galacturonate&2-Dehydro-L-gulonate&D-Fructuronate&3-Dehydro-L-gulonate&D-Glucuronate&D-Tagaturonate  0.025804
+Hydroquinone                                                                                               0.025706
+1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)&2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)                0.025598
+Iminoaspartate                                                                                            -0.025584
+Indole                                                                                                    -0.025304
+D-Mannitol&Galactitol&D-Sorbitol                                                                           0.025085
+L-Prolinylglycine                                                                                         -0.024326
+UTP C9H11N2O15P3                                                                                           0.024280
+2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate                                            0.024218
+Fumarate                                                                                                   0.024083
+Deoxyguanosine&Adenosine                                                                                   0.023930
+3-Aminoacrylate                                                                                           -0.023863
+3-Methyl-2-oxobutanoate                                                                                   -0.023368
+N1-(5-Phospho-D-ribosyl)glycinamide                                                                        0.023149
+Octanoate (n-C8:0)                                                                                        -0.021734
+Decanoate (n-C10:0)                                                                                        0.021564
+L-Leucine&L-Isoleucine                                                                                    -0.021348
+2-Oxopent-4-enoate                                                                                        -0.021323
+(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate                                    0.020452
+D-Alanyl-D-alanine                                                                                        -0.020333
+L-Valine&Glycine betaine                                                                                  -0.020042
+Mercaptopyruvate                                                                                          -0.019817
+Pyridoxamine                                                                                               0.019057
+Sucrose C12H22O11&Melibiose C12H22O11&Lactose C12H22O11&Trehalose&Maltose C12H22O11                        0.018817
+Glyoxylate                                                                                                -0.018026
+Arbutin C12H16O7                                                                                          -0.018014
+4-Phospho-L-aspartate                                                                                      0.016942
+L-Lactate&D-Lactate&3-Hydroxypropanoate&D-Glyceraldehyde&Dihydroxyacetone                                 -0.016854
+Carbamoyl phosphate                                                                                       -0.016565
+Phosphatidylglycerol (dihexadecanoyl, n-C16:0)                                                             0.016025
+Thiocyanate                                                                                                0.015914
+N8-Acetylspermidine&N1-Acetylspermidine                                                                   -0.015665
+Betaine aldehyde                                                                                          -0.015012
+O-Phospho-L-serine                                                                                        -0.014961
+Oxaloacetate                                                                                               0.014941
+Phosphatidylethanolamine (ditetradecanoyl, n-C14:0)                                                        0.014913
+Cis-3-(3-carboxyethyl)-3,5-cyclohexadiene-1,2-diol                                                        -0.014630
+C'-(3-Indolyl)-glycerol 3-phosphate                                                                       -0.014591
+P-Cresol                                                                                                  -0.014494
+Hydroxypyruvate&2-Hydroxy-3-oxopropanoate                                                                 -0.014036
+Phosphatidylserine (didodecanoyl, n-C12:0)                                                                 0.013992
+Propanoyl phosphate                                                                                        0.013100
+Urate C5H4N4O3                                                                                            -0.012950
+Nicotinamide adenine dinucleotide phosphate                                                                0.012841
+3-Phosphohydroxypyruvate                                                                                  -0.012825
+Dopamine                                                                                                  -0.012794
+Dethiobiotin                                                                                              -0.012541
+Cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol&3-(2,3-Dihydroxyphenyl)propanoate                     0.012447
+Deoxycytidine                                                                                             -0.011461
+6-carboxy-5,6,7,8-tetrahydropterin                                                                         0.011316
+Nicotinamide                                                                                              -0.010834
+Phosphatidylglycerol (ditetradecanoyl, n-C14:0)                                                           -0.010639
+DTDP C10H13N2O11P2                                                                                         0.010592
+4-Methyl-5-(2-phosphoethyl)-thiazole                                                                      -0.010502
+Taurine C2H7NO3S                                                                                          -0.010448
+Hexadecanoyl-phosphate (n-C16:0)                                                                          -0.010383
+D-Galactonate&D-Gluconate&D-Mannonate&L-Idonate&D-Altronate                                                0.010250
+L-Glutamate&O-Acetyl-L-serine                                                                              0.009963
+Propanal                                                                                                  -0.009647
+3-(3-hydroxy-phenyl)propionate                                                                            -0.009645
+Tetrahydromonapterin                                                                                      -0.009510
+Nitrate                                                                                                   -0.008961
+Dihydromonapterin-triphosphate&2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)dihydropteridine triphosphate  0.008797
+2-Phosphoglycolate                                                                                        -0.008514
+L-Aspartate 4-semialdehyde&L-2-Amino-3-oxobutanoate                                                       -0.008330
+Thymine C5H6N2O2                                                                                          -0.008243
+L-Lysine                                                                                                  -0.007957
+2-Octaprenylphenol                                                                                        -0.007942
+3-Sulfino-L-alanine                                                                                       -0.007547
+Thiamin                                                                                                    0.007384
+Gamma-glutamyl-putrescine                                                                                 -0.007144
+D-Glucosamine                                                                                              0.006888
+DCDP C9H12N3O10P2                                                                                         -0.006866
+UDP-N-acetyl-D-glucosamine&UDP-N-acetyl-D-galactosamine&UDP-N-acetyl-D-mannosamine                        -0.006819
+L-Glutamine                                                                                               -0.006629
+8-Amino-7-oxononanoate                                                                                    -0.006182
+2,3,4,5-Tetrahydrodipicolinate                                                                            -0.006103
+(R)-2,3-Dihydroxy-3-methylbutanoate&1-deoxy-D-xylulose&5'-deoxyribose&6,7-Dihydropteridine                -0.005966
+Uracil                                                                                                    -0.005946
+2,3-diaminopropionate                                                                                     -0.005569
+3-hydroxycinnamic acid&Phenylpyruvate                                                                      0.005451
+D-4'-Phosphopantothenate                                                                                   0.005024
+L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate                                                        0.004826
+Glycolate C2H3O3                                                                                          -0.004694
+Deoxyadenosine                                                                                            -0.003833
+D-tartrate                                                                                                -0.003631
+Propionate (n-C3:0)&D-Lactaldehyde&Acetol cytosol                                                         -0.003427
+Methanesulfonate                                                                                          -0.003011
+Cis-Aconitate                                                                                              0.002877
+1-hexadecanoyl-sn-glycerol 3-phosphate&2-hexadecanoyl-sn-glycerol 3-phosphate                              0.002781
+N-Acetylmuramate                                                                                           0.002583
+Octanoate (protein bound)                                                                                  0.002524
+Nicotinate                                                                                                -0.002357
+Maltotetraose                                                                                              0.002109
+L-Glutamate 1-semialdehyde&L-Glutamate 5-semialdehyde&5-Amino-4-oxopentanoate                              0.001971
+5-Phospho-alpha-D-ribose 1-diphosphate                                                                     0.001873
+Branching glycogen&Glycogen C6H10O5                                                                       -0.001482
+O-Phospho-4-hydroxy-L-threonine                                                                           -0.001256
+3  CMP C9H12N3O8P&CMP C9H12N3O8P                                                                           0.001170
+UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine                                                      -0.001019
+D-Tagatose 6-phosphate&Allulose 6-phosphate&D-Mannose 1-phosphate&D-Allose 6-phosphate&D-Mannose 6-phosphate&D-Glucose 6-phosphate&D-Fructose 1-phosphate&Alpha-D-Galactose 1-phosphate&1D-myo-Inositol 1-phosphate&D-Glucose 1-phosphate&D-Fructose 6-phosphate -0.000517
+Methylglyoxal                                                                                             -0.000430
+Butanal C4H8O                                                                                              0.000392
+4-amino-4-deoxychorismate                                                                                 -0.000327
