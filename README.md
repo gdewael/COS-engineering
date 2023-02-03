@@ -5,6 +5,7 @@ Code supporting machine learning for engineering of COS production in *E. coli*.
 - `data.csv` contains all supporting data, including OD $_{600}$, growth rate $\mu$ and to which split each sample belongs (either test or val0, val1, val2, val3 for either of the cross-validation folds)
 - `utils.py` supporting python helper functions to load in data and train models
 - `example_script_PLS.py`, `example_scripts_PLS_B.py` and `example_script_PLS.py` example script of usage to reproduce our results.
+- `PLS_res.txt`, `PLS_B_res.txt` & `XGB_res.txt` full list of feature importances.
 
 ## Dependencies
 
